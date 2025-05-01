@@ -3,7 +3,7 @@ title: Local Auth Tool Mantığı – Deneysel Geliştirme Rehberi
 published: true
 ---
 
-# [](#header-1)Amaç Neydi?
+# [](#header-3)Amaç Neydi?
 
 Xiaomi cihaz EDL modda → cihaz diyor ki:
 
@@ -15,7 +15,7 @@ Senin tool’un da cevap veriyor:
 
 ⚙️ Bölüm Bölüm Anlatalım
 
-## [](#header-2)📍 A. Xiaomi’nin Asıl Yolu Nasıl?
+## [](#header-3)📍 A. Xiaomi’nin Asıl Yolu Nasıl?
 
 Orijinal MiServiceTool gibi programlar şu şekilde çalışıyor:
 
